@@ -1,45 +1,3 @@
-/* import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
-        </div>
-      </div>
-    </header>
-  );
-}
-
-export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
-      <main>
-        <HomepageFeatures />
-      </main>
-    </Layout>
-  );
-}
- */
 import React from 'react';
 import clsx from 'clsx';
 import styles from './index.module.css';
@@ -51,13 +9,34 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 // List of all pictures that will appear in the gallery section
 const gals = [
   {
-    title: 'Frosted Sugar Cookies', //label that appears under image
+    title: 'A New England Fall', //label that appears under image
      imageUrl: '/img/docusaurus.png', //path to image in static img folder
    // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
     webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
   },
   {
-    title: 'Gingerbread Cookies',
+    title: 'Backroad Bops',
+    imageUrl: '/img/docusaurus.png', //path to image in static img folder
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
+  },
+  {
+    title: 'Middle School', //label that appears under image
+     imageUrl: '/img/docusaurus.png', //path to image in static img folder
+   // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
+  },
+  {
+    title: 'Sad Songs',
+    imageUrl: '/img/docusaurus.png', //path to image in static img folder
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
+  },
+  {
+    title: 'Driving',
+    imageUrl: '/img/docusaurus.png', //path to image in static img folder
+    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
+  },
+  {
+    title: 'Christmas',
     imageUrl: '/img/docusaurus.png', //path to image in static img folder
     webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
   },
@@ -87,7 +66,7 @@ export default function Gallery() {
     <Layout>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{'Photo Gallery'}</h1>
+          <h1 className="hero__title">{'Playlists'}</h1>
         </div>
       </header>
    

@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Jessica Rob',
+  //tagline: 'Dinosaurs are cool',
   url: 'https://JessicaRob.github.io',
   baseUrl: '/site/',
   onBrokenLinks: 'throw',
@@ -22,10 +22,10 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en'],
+  // },
 
   presets: [
     [
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/JessicaRob/site',
         },
         blog: {
           showReadingTime: true,
@@ -57,75 +57,25 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Home',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Site Logo',
           src: 'img/logo.svg',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          {type: 'doc', docId: 'intro', position: 'left', label: 'Photo Albums'},
+         // {to: '/blog', label: 'Blog', position: 'left'},
+         {to: '/gallery', label: 'Playlists', position: 'left'},
+         {label: 'vsco', href: 'https://vsco.co/jessica-rob', position: 'left'},
+         {label: 'Instagram', href: 'https://instagram.com/jessica_rob_', position: 'left'},
+         {href: 'https://github.com/JessicaRob/site', label: 'GitHub', position: 'right'},
+
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Tutorial',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-      },
-      prism: {
+     /*  prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-      },
+      }, */
     }),
 };
 
