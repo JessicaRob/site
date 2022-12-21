@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 
-.heroBanner {
+/* .heroBanner {
   padding: 4rem 0;
   text-align: center;
   position: relative;
@@ -20,4 +20,63 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+ */
+ .heroBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  height: flex;
+  font-style: italic;  
+  font-family: 'Georgia';
+  background-image: url("/static/img/red_background.png");
+  
+}
+
+.heroImg {
+
+ padding-left: 40px;
+ padding-right: 40px;
+ padding-top: 20px;
+ padding-bottom: 20px;
+}
+ 
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.buttons {
+  display: left; 
+  align-items: left;
+  justify-content: center;
+}
+
+.gals {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 0;
+  text-align: center;
+
+}
+
+.featureGal {
+  height: 80%;
+  width: 80%;
+  border-radius: 5%;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
 }
