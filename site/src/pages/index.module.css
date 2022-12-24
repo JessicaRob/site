@@ -24,7 +24,7 @@
  padding-bottom: 20px;
 } 
  
-@media screen and (max-width: 944px) {
+@media screen and (max-width: 1000px) {
   .heroBanner {
     padding: 2rem;
   }
@@ -37,14 +37,6 @@
   color: #FFFFFF;
 }
 
-.gals {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-   padding: 1rem 0; /* padding above image*/
-  text-align: center;
-
-}
 .playlistBanner {
   padding: 4rem 0;
   text-align: center;
@@ -57,12 +49,20 @@
   background-size: 88%;
 }
 
+ /* format playlist images */
+ .gals {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+   padding: 1rem 0; /* padding above image*/
+  text-align: center;
+}
 .featureGal {
   height: 40%;
   width: 40%;
- 
 }
 
+ /* format index-homepage images */
 .features {
   display: flex;
   align-items: center;
@@ -70,7 +70,10 @@
   width: 100%;
 }
 
+
 .featureSvg {
-  height: 100px;
-  width: 100px;
+  height: 80px;
+  width: 80px;
+
 }
+
