@@ -8,7 +8,7 @@ import styles from './index.module.css';
 // images are from undraw and use the HEX code #a79886 
 const FeatureList = [
   {
-    title: 'Playlists', // Homepage Icon Label
+    title: 'playlists', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 //90836D
     Svg: require('@site/static/img/earbud.svg').default, // Homepage Undraw Image
@@ -16,7 +16,7 @@ const FeatureList = [
     url: 'https://jessicarob.github.io/site/playlists/', //Link to Landing Page for Corresponding Recipe Section
   },
   {
-    title: 'Photos', // Homepage Icon Label
+    title: 'books', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
     Svg: require('@site/static/img/camera.svg').default, // Homepage Undraw Image
@@ -24,7 +24,7 @@ const FeatureList = [
     url: 'https://jessicarob.github.io/site/books/', //Link to Landing Page for Corresponding Recipe Section
   },
   {
-    title: 'Recipes', // Homepage Icon Label
+    title: 'recipes', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
     Svg: require('@site/static/img/coffee.svg').default, // Homepage Undraw Image
