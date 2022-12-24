@@ -11,7 +11,7 @@ const FeatureList = [
     title: 'playlists', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 //90836D
-    Svg: require('@site/static/img/earbud.svg').default, // Homepage Undraw Image
+    Svg: require('@site/static/img/index_img/earbud.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
     url: 'https://jessicarob.github.io/site/playlists/', //Link to Landing Page for Corresponding Recipe Section
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     title: 'books', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
-    Svg: require('@site/static/img/camera.svg').default, // Homepage Undraw Image
+    Svg: require('@site/static/img/index_img/flower.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
     url: 'https://jessicarob.github.io/site/books/', //Link to Landing Page for Corresponding Recipe Section
   },
@@ -27,9 +27,9 @@ const FeatureList = [
     title: 'recipes', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
-    Svg: require('@site/static/img/coffee.svg').default, // Homepage Undraw Image
+    Svg: require('@site/static/img/index_img/coffee.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
-    url: 'https://jessicarob.github.io/site/docs/vegas/intro/', //Link to Landing Page for Corresponding Recipe Section
+    url: 'https://jessicarob.github.io/site/docs/intro/', //Link to Landing Page for Corresponding Recipe Section
   },
   
 

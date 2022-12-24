@@ -39,13 +39,13 @@ const config = {
           editUrl:
             'https://github.com/JessicaRob/site',
         },
-        blog: {
+   /*      blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        }, */
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -63,10 +63,10 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {type: 'doc', docId: 'intro', position: 'left', label: 'photos'},
          // {to: '/blog', label: 'Blog', position: 'left'},
          {to: '/playlists', label: 'playlists', position: 'left'},
          {to: '/books', label: 'books', position: 'left'},
+         {type: 'doc', docId: 'intro', position: 'left', label: 'recipes'},
          {label: 'vsco', href: 'https://vsco.co/jessica-rob', position: 'left'},
          {label: 'insta', href: 'https://instagram.com/jessica_rob_', position: 'left'},
          {href: 'https://github.com/JessicaRob/site', label: 'github', position: 'right'},

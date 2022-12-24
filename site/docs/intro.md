@@ -2,6 +2,6 @@
 sidebar_position: 1
 ---
 
-# Photos
+# Recipes
 
-This is where photo albums will be located
+This is where Recipes will be located
