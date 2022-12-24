@@ -3,25 +3,7 @@
  * and scoped locally.
  */
 
-/* .heroBanner {
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
-  overflow: hidden;
-}
 
-@media screen and (max-width: 996px) {
-  .heroBanner {
-    padding: 2rem;
-  }
-}
-
-.buttons {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
- */
  .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -52,21 +34,33 @@
   display: left; 
   align-items: left;
   justify-content: center;
+  color: #FFFFFF;
 }
 
 .gals {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 2rem 0;
+   padding: 1rem 0; /* padding above image*/
   text-align: center;
 
 }
+.playlistBanner {
+  padding: 4rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  height: flex;
+  font-style: italic;  
+  font-family: 'Georgia';
+  background-color: #cfbca9;
+  background-size: 88%;
+}
 
 .featureGal {
-  height: 80%;
-  width: 80%;
-  border-radius: 5%;
+  height: 40%;
+  width: 40%;
+ 
 }
 
 .features {

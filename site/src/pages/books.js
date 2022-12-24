@@ -14,32 +14,6 @@ const gals = [
    // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
     webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
   },
-  {
-    title: 'Backroad Bops',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
-  {
-    title: 'Middle School', //label that appears under image
-     imageUrl: '/img/docusaurus.png', //path to image in static img folder
-   // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
-  },
-  {
-    title: 'Sad Songs',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
-  {
-    title: 'Driving',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
-  {
-    title: 'Christmas',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
 ];
  
 //function to format and organize the above gallery list info, links text and image to proper url

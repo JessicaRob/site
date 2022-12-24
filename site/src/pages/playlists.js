@@ -10,36 +10,20 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 const gals = [
   {
     title: 'A New England Fall', //label that appears under image
-     imageUrl: '/img/docusaurus.png', //path to image in static img folder
-   // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
+    imageUrl: '/img/playlist_img/fall.png', //path to image in static img folder
+    webURL:'https://open.spotify.com/playlist/2lfSpSx1kPiuJMicSKwKGq?si=20be3cf161c243f6', //link to corresponding recipe site page
   },
   {
     title: 'Backroad Bops',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
+    imageUrl: '/img/playlist_img/ms.png', 
+    webURL:'https://open.spotify.com/playlist/20fkNioGy029umE4pGgnQ8?si=9b699e848efb4fa5',
   },
   {
-    title: 'Middle School', //label that appears under image
-     imageUrl: '/img/docusaurus.png', //path to image in static img folder
-   // imageUrl: '/img/gallery/sugar-cookies.jpg', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/sugar-cookies/', //link to corresponding recipe site page
+    title: 'Middle School', 
+    imageUrl: '/img/playlist_img/ms.png', 
+    webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
   },
-  {
-    title: 'Sad Songs',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
-  {
-    title: 'Driving',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
-  {
-    title: 'Christmas',
-    imageUrl: '/img/docusaurus.png', //path to image in static img folder
-    webURL:'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/gingerbread-cookies/',
-  },
+
 ];
  
 //function to format and organize the above gallery list info, links text and image to proper url
@@ -64,7 +48,7 @@ export default function Gallery() {
 
   return (
     <Layout>
-      <header className={clsx('hero hero--primary', styles.heroBanner)}>
+      <header className={clsx('hero hero--primary', styles.playlistBanner)}>
         <div className="container">
           <h1 className="hero__title">{'Playlists'}</h1>
         </div>
