@@ -1,5 +1,6 @@
 # Website
-
+cd site
+cmd /C "set GIT_USER=JessicaRob&& yarn deploy"
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
 ### Installation

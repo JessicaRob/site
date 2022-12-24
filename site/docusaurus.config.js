@@ -63,12 +63,13 @@ const config = {
           src: 'img/logo.svg',
         },
         items: [
-          {type: 'doc', docId: 'intro', position: 'left', label: 'Photo Albums'},
+          {type: 'doc', docId: 'intro', position: 'left', label: 'photos'},
          // {to: '/blog', label: 'Blog', position: 'left'},
-         {to: '/gallery', label: 'Playlists', position: 'left'},
+         {to: '/gallery', label: 'playlists', position: 'left'},
+         {to: '/gallery', label: 'books', position: 'left'},
          {label: 'vsco', href: 'https://vsco.co/jessica-rob', position: 'left'},
-         {label: 'Instagram', href: 'https://instagram.com/jessica_rob_', position: 'left'},
-         {href: 'https://github.com/JessicaRob/site', label: 'GitHub', position: 'right'},
+         {label: 'insta', href: 'https://instagram.com/jessica_rob_', position: 'left'},
+         {href: 'https://github.com/JessicaRob/site', label: 'github', position: 'right'},
 
         ],
       },
