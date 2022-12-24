@@ -31,7 +31,7 @@ title: Sugar Cookies
 
 7. Bake for 9-10 minutes, or until edges just begin to turn lightly golden brown.
 
-## Royal Icing with Meringue Powder
+### Royal Icing with Meringue Powder
 ### Ingredients
 - 4 cup Confectioners’ Sugar, sifted
 - 3 tbsp. Meringue Powder

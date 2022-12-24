@@ -39,7 +39,7 @@ const config = {
           editUrl:
             'https://github.com/JessicaRob/site',
         },
-   /*      blog: {
+        /* blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -66,6 +66,7 @@ const config = {
          // {to: '/blog', label: 'Blog', position: 'left'},
          {to: '/playlists', label: 'playlists', position: 'left'},
          {to: '/books', label: 'books', position: 'left'},
+         //{type: 'doc', docId: 'books', position: 'left', label: 'books'},
          {type: 'doc', docId: 'intro', position: 'left', label: 'recipes'},
          {label: 'vsco', href: 'https://vsco.co/jessica-rob', position: 'left'},
          {label: 'insta', href: 'https://instagram.com/jessica_rob_', position: 'left'},
