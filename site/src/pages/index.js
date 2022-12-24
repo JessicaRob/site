@@ -13,7 +13,7 @@ const FeatureList = [
 //90836D
     Svg: require('@site/static/img/earbud.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
-    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
+    url: 'https://jessicarob.github.io/site/playlists/', //Link to Landing Page for Corresponding Recipe Section
   },
   {
     title: 'Photo Albums', // Homepage Icon Label
@@ -29,20 +29,10 @@ const FeatureList = [
 
     Svg: require('@site/static/img/coffee.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
-    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
+    url: 'https://jessicarob.github.io/site/docs/vegas/intro/', //Link to Landing Page for Corresponding Recipe Section
   },
   
-/*   {
-    title: 'Photo Albums',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // Homepage Undraw Image
-   // Svg: require('@site/static/img/landing/dinner.svg').default,
-    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dinner-bar/dinner-landing/',
-  },
-  {
-    title: 'Dessert Recipes',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // Homepage Undraw Image
-    url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/dessert-bar/dessert-landing/',
-  }, */
+
 ];
 
 // puts the above list into a function so that the title and svg appear in the correct order, are formatted and link to the URLs
@@ -85,7 +75,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="https://vsco.co/jessica-rob/gallery">
-            VSCO
+            vsco
           </Link>
         </div>            
       </div>

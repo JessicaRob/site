@@ -65,8 +65,8 @@ const config = {
         items: [
           {type: 'doc', docId: 'intro', position: 'left', label: 'photos'},
          // {to: '/blog', label: 'Blog', position: 'left'},
-         {to: '/gallery', label: 'playlists', position: 'left'},
-         {to: '/gallery', label: 'books', position: 'left'},
+         {to: '/playlists', label: 'playlists', position: 'left'},
+         {to: '/books', label: 'books', position: 'left'},
          {label: 'vsco', href: 'https://vsco.co/jessica-rob', position: 'left'},
          {label: 'insta', href: 'https://instagram.com/jessica_rob_', position: 'left'},
          {href: 'https://github.com/JessicaRob/site', label: 'github', position: 'right'},
