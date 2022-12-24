@@ -21,7 +21,7 @@ const FeatureList = [
 
     Svg: require('@site/static/img/index_img/flower.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
-    url: 'https://jessicarob.github.io/site/books/books/', //Link to Landing Page for Corresponding Recipe Section
+    url: 'https://jessicarob.github.io/site/books/', //Link to Landing Page for Corresponding Recipe Section
   },
   {
     title: 'recipes', // Homepage Icon Label
