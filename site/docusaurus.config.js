@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Jessica Rob',
-  //tagline: 'Dinosaurs are cool',
+  tagline: 'the world doesnt revolve around me but my website does.',
   url: 'https://JessicaRob.github.io',
   baseUrl: '/site/',
   onBrokenLinks: 'throw',

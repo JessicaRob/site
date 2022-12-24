@@ -10,8 +10,8 @@ const FeatureList = [
   {
     title: 'Playlists', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
-
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // Homepage Undraw Image
+//90836D
+    Svg: require('@site/static/img/earbud.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     title: 'Photo Albums', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // Homepage Undraw Image
+    Svg: require('@site/static/img/camera.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
   },
@@ -27,7 +27,7 @@ const FeatureList = [
     title: 'Dessert Recipes', // Homepage Icon Label
    // imageUrl: '/img/docusaurus.png', //path to image in static img folder
 
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default, // Homepage Undraw Image
+    Svg: require('@site/static/img/coffee.svg').default, // Homepage Undraw Image
   // Svg: require('@site/static/img/landing/brunch.svg').default, // Homepage Undraw Image
     url: 'https://betty-cracker-recipes.github.io/BC-Recipes/docs/brunch-bar/brunch-landing/', //Link to Landing Page for Corresponding Recipe Section
   },

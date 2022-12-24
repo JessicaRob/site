@@ -30,8 +30,8 @@
   height: flex;
   font-style: italic;  
   font-family: 'Georgia';
-  background-image: url("/static/img/red_background.png");
-  
+  background-image: url("/static/img/beige_home.png");
+  background-size: 88%;
 }
 
 .heroImg {
@@ -40,9 +40,9 @@
  padding-right: 40px;
  padding-top: 20px;
  padding-bottom: 20px;
-}
+} 
  
-@media screen and (max-width: 966px) {
+@media screen and (max-width: 944px) {
   .heroBanner {
     padding: 2rem;
   }
