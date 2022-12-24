@@ -9,17 +9,17 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 // List of all pictures that will appear in the gallery section
 const gals = [
   {
-    title: 'A New England Fall', //label that appears under image
+    title: 'a new england fall', //label that appears under image
     imageUrl: '/img/playlist_img/fall.png', //path to image in static img folder
     webURL:'https://open.spotify.com/playlist/2lfSpSx1kPiuJMicSKwKGq?si=20be3cf161c243f6', //link to corresponding recipe site page
   },
   {
-    title: 'Backroad Bops',
+    title: 'backroad bops',
     imageUrl: '/img/playlist_img/ms.png', 
     webURL:'https://open.spotify.com/playlist/20fkNioGy029umE4pGgnQ8?si=9b699e848efb4fa5',
   },
   {
-    title: 'Middle School', 
+    title: 'middle school', 
     imageUrl: '/img/playlist_img/ms.png', 
     webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
   },
