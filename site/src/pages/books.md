@@ -14,7 +14,9 @@
 
    ~ Jacqueline Susann, [Valley of the Dolls](https://www.amazon.com/Valley-Dolls-Anniversary-Jacqueline-Susann/dp/0802125344/ref=pd_lpo_1?pd_rd_w=eaxE6&content-id=amzn1.sym.116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_p=116f529c-aa4d-4763-b2b6-4d614ec7dc00&pf_rd_r=M1XF54PXCKVJAN5H039X&pd_rd_wg=d3Tc9&pd_rd_r=02404559-356c-4ff1-9a46-9f001b546340&pd_rd_i=0802125344&psc=1)
 
-## add picture
+
+ [the beautiful & damned](/img/book_img/book1.png)
+
 
 > “Beautiful things grow to a certain height and then they fail and fade off, breathing out memories as they decay”
 
