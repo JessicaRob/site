@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-title: Chicken Piccata
+title: piccata
 ---
-# Chicken Piccata
+# chicken piccata
 ### Ingredients
 - Chicken Breast Cutlets
 - Chicken Broth

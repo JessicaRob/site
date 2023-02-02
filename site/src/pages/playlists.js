@@ -10,17 +10,22 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 const gals = [
   {
     title: 'a new england fall', //label that appears under image
-    imageUrl: '/img/playlist_img/fall.png', //path to image in static img folder
+    imageUrl: '/img/playlist_img/fall.jpg', //path to image in static img folder
     webURL:'https://open.spotify.com/playlist/2lfSpSx1kPiuJMicSKwKGq?si=20be3cf161c243f6', //link to corresponding recipe site page
   },
   {
     title: 'backroad bops',
-    imageUrl: '/img/playlist_img/ms.png', 
+    imageUrl: '/img/playlist_img/bops.jpg', 
     webURL:'https://open.spotify.com/playlist/20fkNioGy029umE4pGgnQ8?si=9b699e848efb4fa5',
   },
-  {
+/*   {
     title: 'middle school', 
-    imageUrl: '/img/playlist_img/ms.png', 
+    imageUrl: '/img/playlist_img/cg.jpg', 
+    webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
+  }, */
+  {
+    title: 'calm', 
+    imageUrl: '/img/playlist_img/cg.jpg', 
     webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
   },
 

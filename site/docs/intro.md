@@ -1,6 +1,20 @@
 ---
 sidebar_position: 1
-title: Recipes
+title: recipes
 ---
-# Recipes
-test
+# recipes
+## breakfast
+- matcha latte
+
+## dinner
+- chicken marsala
+- chicken piccata
+- chicken soup
+- cheddar ale soup
+- twice baked potatoes
+
+## dessert
+- carrot cake cheesecake
+- gingerbread cookies
+- sugar cookies
+- sugar cream pie 

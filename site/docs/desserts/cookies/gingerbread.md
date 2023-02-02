@@ -1,8 +1,8 @@
 ---
 sidebar_position: 2
-title: Gingerbread Cookies
+title: gingerbread 
 ---
-# Gingerbread Cookies
+# gingerbread cookies
 
 ### Ingredients:
 - 3 cups All-Purpose Flour

@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
-title: Cheddar Ale Soup
+title: cheddar ale 
 ---
-# Cheddar Ale Soup
+# cheddar ale soup
 
 ### Ingredients:
 4 tbsp. salted butter

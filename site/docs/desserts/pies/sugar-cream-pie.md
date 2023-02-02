@@ -1,8 +1,8 @@
 ---
 sidebar_position: 4
-title: Sugar Cream Pie
+title: sugar cream 
 ---
-# Sugar Cream Pie
+# sugar cream pie
 
 ### Ingredients
 - ¾ cup Granulated Sugar

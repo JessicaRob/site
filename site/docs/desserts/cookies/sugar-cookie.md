@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
-title: Sugar Cookies
+title: sugar 
 ---
-# Sugar Cookies
+# sugar cookies
 
 ### Ingredients
 - 1 Cup Unsalted Butter, softened to room temperature

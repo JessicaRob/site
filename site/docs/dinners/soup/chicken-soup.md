@@ -1,8 +1,8 @@
 ---
 sidebar_position: 3
-title: Chicken Soup
+title: chicken 
 ---
-# Chicken Soup
+# chicken soup
 
 ### Ingredients
 - 4 32oz. College Inn Chicken Broth (2 large boxes)
