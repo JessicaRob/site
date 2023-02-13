@@ -6,6 +6,7 @@ import Link from '@docusaurus/Link';
 // import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import useBaseUrl from '@docusaurus/useBaseUrl';
 
+
 // List of all pictures that will appear in the gallery section
 const gals = [
   {

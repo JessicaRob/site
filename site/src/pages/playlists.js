@@ -55,7 +55,7 @@ export default function Gallery() {
     <Layout>
       <header className={clsx('hero hero--primary', styles.playlistBanner)}>
         <div className="container">
-          <h1 className="hero__title">{'Playlists'}</h1>
+          <h1 className="hero__title">{'playlists'}</h1>
         </div>
       </header>
    
