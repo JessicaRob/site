@@ -3,7 +3,6 @@
  * and scoped locally.
  */
 
-
  .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -45,12 +44,13 @@
   height: flex;
   font-style: italic;  
   font-family: 'Georgia';
-  background-image: url("/static/img/playlist.jpg");
-  /* background-color: #cfbca9; */
-  background-size: 88%;
+   /*background-image: url("/static/img/playlist.jpg");*/
+   background-image: url("/static/img/beige_home.png");
+   background-color: #b1c0dd; 
+  background-size: 100%;
 }
 
- /* format playlist images */
+ /* format playlist images cfbca9*/
  .gals {
   display: flex;
   align-items: center;
