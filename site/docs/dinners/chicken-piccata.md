@@ -1,6 +1,6 @@
 ---
 sidebar_position: 2
-title: piccata
+title: chicken piccata
 ---
 # chicken piccata
 ### Ingredients

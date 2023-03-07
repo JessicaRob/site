@@ -1,6 +1,6 @@
 ---
 sidebar_position: 4
-title: sugar cream 
+title: sugar cream pie
 ---
 # sugar cream pie
 

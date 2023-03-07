@@ -1,5 +1,10 @@
 ## book recommendations
 
+
+> “The fact is that the public have an insatiable curiosity to know everything, except what is worth knowing.”
+
+   ~ Oscar Wilde, [Only Dull People Are Brilliant at Breakfast](https://www.goodreads.com/en/book/show/29081916)
+
 >"You've got to climb to the top of Mount Everest
 > to reach the Valley of the Dolls [...]
 > You stand there, 
@@ -21,31 +26,24 @@
 
    ~ Susanna Kaysen, [Girl, Interrupted](https://en.wikipedia.org/wiki/Girl,_Interrupted)
 
-
-> “The fact is that the public have an insatiable curiosity to know everything, except what is worth knowing.”
-
-   ~ Oscar Wilde, [Only Dull People Are Brilliant at Breakfast](https://www.goodreads.com/en/book/show/29081916)
-
-> “If only there could be an invention that bottled up a memory, like scent. And it never faded, and it never got stale. And then, when one wanted it, the   >
+> “If only there could be an invention that bottled up a memory, like scent. And it never faded, and it never got stale. And then, when one wanted it, the   
 > bottle could be uncorked, and it would be like living the moment all over again.”
 
    ~ Daphne du Maurier, [Rebecca](https://en.wikipedia.org/wiki/Rebecca_(novel))
 
 >“Not making a choice is a choice. Neutrality is a concept, not a fact.”
 
-   ~ Dot Hutchison, The Butterfly Garden
+   ~ Dot Hutchison, [The Butterfly Garden](https://www.goodreads.com/book/show/29981261-the-butterfly-garden)
 
 > “I knew I had fallen in love with Lolita forever; but I also knew she would not be forever Lolita.”
 
    ~ Vladimir Nabokov, [Lolita](https://en.wikipedia.org/wiki/Lolita)
 
-> “Being beautiful, was that for men?'
-> 'Yes. Some women say that it is for ourselves. What on earth can we do with it? I could have loved myself whether I was hunchbacked or lame, but to be loved >
+> “Being beautiful, was that for men?
+> Yes. Some women say that it is for ourselves. What on earth can we do with it? I could have loved myself whether I was hunchbacked or lame, but to be loved
 > by others, you had to be beautiful.”
 
    ~ Jacqueline Harpman, [I Who Have Never Known Men](https://en.wikipedia.org/wiki/I_Who_Have_Never_Known_Men)
-
-![This is an image](https://icons8.com/icons/set/smokingg)
    
 > “Memory is fiction.”
 
