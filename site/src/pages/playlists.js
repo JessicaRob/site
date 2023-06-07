@@ -35,13 +35,13 @@ const gals = [
   {
     title: 'rap songs i know', 
     imageUrl: '/img/playlist_img/mac1.jpg', 
-    webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
+    webURL:'https://open.spotify.com/playlist/3DosXPX22mV5aqZLKVrPAi?si=67e57112f37e4556', 
     text: 'playlist size doesnt matter',
   },
   {
     title: 'classic rock', 
     imageUrl: '/img/playlist_img/classic.jpg', 
-    webURL:'https://open.spotify.com/playlist/0VDc0MIsMTMfa2yruNsu4l?si=c7025ebba86a4d80', 
+    webURL:'https://open.spotify.com/playlist/0lsN6AXX68umF3clmS5MVs?si=2049f0ecabda4fe6', 
     text: 'your dads favorite songs',
   }, 
 
@@ -61,9 +61,9 @@ const gals = [
       <h3>{title}</h3>
       <text>{text}</text>
       </Link>
-     
+              
     </div>
-  
+
   );
 }
 
